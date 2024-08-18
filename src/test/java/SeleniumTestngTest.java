@@ -18,7 +18,7 @@ public class SeleniumTestngTest extends BasicSetupTest {
         Assert.assertTrue(true);
     }
 
-
-    // Write the rest of test methods according to the task here, each method checking one scenario
+    // Write the rest of TEST METHODS according to the task here, each method checking one scenario described in README.md file
+    // In the end you should have a set of test methods each of them describing some specific scenario
 
 }
