@@ -22,7 +22,6 @@ public class BasicSetupTest {
         options.addArguments("--disable-dev-shm-usage");
         options.addArguments("--remote-debugging-port=9222");
         options.addArguments("--disable-gpu");
-        options.addArguments("--user-data-dir=/tmp/chrome-user-data-" + System.currentTimeMillis());
 
         // Check if headless mode is enabled via system property
         // DEAR STUDENT PLEASE DON'T Change it as it's used for GitHub Actions autograding
