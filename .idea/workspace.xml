@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc148d79-7088-4507-9e88-e7cad9ed5f61" name="Changes" comment="Update .idea settings and TestNG configurations&#10;&#10;Refactored IntelliJ project settings, including GitHub and Git preferences. Added a new TestNG configuration for `abTestingPageHasSpecificTextTest` and updated relevant metadata. Minor update to the timestamp in the README." />
+    <list default="true" id="bc148d79-7088-4507-9e88-e7cad9ed5f61" name="Changes" comment="Add GitHub autograding and upgrade project dependencies&#10;&#10;Implemented GitHub Classroom autograding configuration with Selenium tests. Upgraded Java version to 17, updated Maven dependencies, and adjusted IntelliJ project settings. Improved test setup and streamlined project structure for compatibility and maintainability." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Maven.SELENIUM_TESTNG_HOMEWORK [test].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -122,12 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1760214131639</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add GitHub autograding and upgrade project dependencies&#10;&#10;Implemented GitHub Classroom autograding configuration with Selenium tests. Upgraded Java version to 17, updated Maven dependencies, and adjusted IntelliJ project settings. Improved test setup and streamlined project structure for compatibility and maintainability.">
+      <option name="closed" value="true" />
+      <created>1760214640629</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760214640629</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Update .idea settings and TestNG configurations&#10;&#10;Refactored IntelliJ project settings, including GitHub and Git preferences. Added a new TestNG configuration for `abTestingPageHasSpecificTextTest` and updated relevant metadata. Minor update to the timestamp in the README." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update .idea settings and TestNG configurations&#10;&#10;Refactored IntelliJ project settings, including GitHub and Git preferences. Added a new TestNG configuration for `abTestingPageHasSpecificTextTest` and updated relevant metadata. Minor update to the timestamp in the README." />
+    <MESSAGE value="Add GitHub autograding and upgrade project dependencies&#10;&#10;Implemented GitHub Classroom autograding configuration with Selenium tests. Upgraded Java version to 17, updated Maven dependencies, and adjusted IntelliJ project settings. Improved test setup and streamlined project structure for compatibility and maintainability." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add GitHub autograding and upgrade project dependencies&#10;&#10;Implemented GitHub Classroom autograding configuration with Selenium tests. Upgraded Java version to 17, updated Maven dependencies, and adjusted IntelliJ project settings. Improved test setup and streamlined project structure for compatibility and maintainability." />
   </component>
 </project>

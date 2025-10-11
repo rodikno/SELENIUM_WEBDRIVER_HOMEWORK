@@ -14,6 +14,7 @@ public class SeleniumTestngTest extends BasicSetupTest {
         WebElement abTestingTaskLink = browser.findElement(By.linkText("A/B Testing"));
         abTestingTaskLink.click();
 
+
         // Write your assertions in the after the steps of scenario are executed to validate results
         Assert.assertTrue(true);
     }
