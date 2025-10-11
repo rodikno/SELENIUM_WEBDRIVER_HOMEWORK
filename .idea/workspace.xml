@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc148d79-7088-4507-9e88-e7cad9ed5f61" name="Changes" comment="Update IntelliJ settings and enhance ChromeDriver setup&#10;&#10;Refined IntelliJ project settings and GitHub autograding workflows for better compatibility. Added ChromeOptions configuration to improve stability and enable headless mode for GitHub Actions. Minor adjustments improve maintainability and execution consistency." />
+    <list default="true" id="bc148d79-7088-4507-9e88-e7cad9ed5f61" name="Changes" comment="Remove GitHub Classroom autograding configuration&#10;&#10;This commit deletes the autograding setup files, including the `autograding.json` and associated GitHub Actions workflow (`github-classroom.yml`). These changes likely indicate a shift away from automated grading or a migration to a different tooling setup." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +155,31 @@
       <option name="project" value="LOCAL" />
       <updated>1760215783375</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update IntelliJ settings and improve ChromeDriver setup&#10;&#10;Refined IntelliJ project settings and GitHub autograding workflows for enhanced compatibility. Improved stability by configuring ChromeOptions to enable headless mode for GitHub Actions. Removed unnecessary Chrome user data directory argument and made minor adjustments for better maintainability.">
+      <option name="closed" value="true" />
+      <created>1760216050206</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760216050206</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add unique user data directory for Chrome in tests&#10;&#10;This ensures each test run uses a separate Chrome user data directory, preventing conflicts. The directory name is suffixed with the current timestamp for uniqueness. This change improves test stability and avoids potential data sharing issues.">
+      <option name="closed" value="true" />
+      <created>1760216191715</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1760216191715</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Remove GitHub Classroom autograding configuration&#10;&#10;This commit deletes the autograding setup files, including the `autograding.json` and associated GitHub Actions workflow (`github-classroom.yml`). These changes likely indicate a shift away from automated grading or a migration to a different tooling setup.">
+      <option name="closed" value="true" />
+      <created>1760216286202</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1760216286202</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,6 +189,9 @@
     <MESSAGE value="Enhance project with GitHub autograding and dependency updates&#10;&#10;Implemented GitHub Classroom autograding with Selenium tests and updated project to Java 17. Refined Maven dependencies and adjusted IntelliJ project settings for better compatibility and maintainability. Streamlined test setup and overall project structure." />
     <MESSAGE value="Update IntelliJ settings and GitHub autograding config&#10;&#10;Refined IntelliJ project settings, including TestNG configurations and metadata for improved compatibility. Adjusted GitHub Classroom autograding workflow and streamlined MAVEN_OPTS for better execution. Minor fixes to settings and task management for enhanced maintainability." />
     <MESSAGE value="Update IntelliJ settings and enhance ChromeDriver setup&#10;&#10;Refined IntelliJ project settings and GitHub autograding workflows for better compatibility. Added ChromeOptions configuration to improve stability and enable headless mode for GitHub Actions. Minor adjustments improve maintainability and execution consistency." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update IntelliJ settings and enhance ChromeDriver setup&#10;&#10;Refined IntelliJ project settings and GitHub autograding workflows for better compatibility. Added ChromeOptions configuration to improve stability and enable headless mode for GitHub Actions. Minor adjustments improve maintainability and execution consistency." />
+    <MESSAGE value="Update IntelliJ settings and improve ChromeDriver setup&#10;&#10;Refined IntelliJ project settings and GitHub autograding workflows for enhanced compatibility. Improved stability by configuring ChromeOptions to enable headless mode for GitHub Actions. Removed unnecessary Chrome user data directory argument and made minor adjustments for better maintainability." />
+    <MESSAGE value="Add unique user data directory for Chrome in tests&#10;&#10;This ensures each test run uses a separate Chrome user data directory, preventing conflicts. The directory name is suffixed with the current timestamp for uniqueness. This change improves test stability and avoids potential data sharing issues." />
+    <MESSAGE value="Remove GitHub Classroom autograding configuration&#10;&#10;This commit deletes the autograding setup files, including the `autograding.json` and associated GitHub Actions workflow (`github-classroom.yml`). These changes likely indicate a shift away from automated grading or a migration to a different tooling setup." />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove GitHub Classroom autograding configuration&#10;&#10;This commit deletes the autograding setup files, including the `autograding.json` and associated GitHub Actions workflow (`github-classroom.yml`). These changes likely indicate a shift away from automated grading or a migration to a different tooling setup." />
   </component>
 </project>
