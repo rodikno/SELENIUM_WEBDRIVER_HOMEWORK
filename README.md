@@ -1,5 +1,5 @@
 # SELENIUM_WEBDRIVER_HOMEWORK
-Auto QA 1.0 - Homework: Selenium Webdriver + TestNG + CSS/XPath locators
+Auto QA - Homework: Selenium Webdriver + TestNG + CSS/XPath locators
 
 
 ## Опис домашнього завдання
