@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc148d79-7088-4507-9e88-e7cad9ed5f61" name="Changes" comment="Enhance project with GitHub autograding and dependency updates&#10;&#10;Implemented GitHub Classroom autograding with Selenium tests and updated project to Java 17. Refined Maven dependencies and adjusted IntelliJ project settings for better compatibility and maintainability. Streamlined test setup and overall project structure.">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/github-classroom.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/github-classroom.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BasicSetupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BasicSetupTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="bc148d79-7088-4507-9e88-e7cad9ed5f61" name="Changes" comment="Update IntelliJ settings and GitHub autograding config&#10;&#10;Refined IntelliJ project settings, including TestNG configurations and metadata for improved compatibility. Adjusted GitHub Classroom autograding workflow and streamlined MAVEN_OPTS for better execution. Minor fixes to settings and task management for enhanced maintainability." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760214889858</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update IntelliJ settings and GitHub autograding config&#10;&#10;Refined IntelliJ project settings, including TestNG configurations and metadata for improved compatibility. Adjusted GitHub Classroom autograding workflow and streamlined MAVEN_OPTS for better execution. Minor fixes to settings and task management for enhanced maintainability.">
+      <option name="closed" value="true" />
+      <created>1760215384489</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760215384489</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -151,6 +155,7 @@
     <MESSAGE value="Update .idea settings and TestNG configurations&#10;&#10;Refactored IntelliJ project settings, including GitHub and Git preferences. Added a new TestNG configuration for `abTestingPageHasSpecificTextTest` and updated relevant metadata. Minor update to the timestamp in the README." />
     <MESSAGE value="Add GitHub autograding and upgrade project dependencies&#10;&#10;Implemented GitHub Classroom autograding configuration with Selenium tests. Upgraded Java version to 17, updated Maven dependencies, and adjusted IntelliJ project settings. Improved test setup and streamlined project structure for compatibility and maintainability." />
     <MESSAGE value="Enhance project with GitHub autograding and dependency updates&#10;&#10;Implemented GitHub Classroom autograding with Selenium tests and updated project to Java 17. Refined Maven dependencies and adjusted IntelliJ project settings for better compatibility and maintainability. Streamlined test setup and overall project structure." />
-    <option name="LAST_COMMIT_MESSAGE" value="Enhance project with GitHub autograding and dependency updates&#10;&#10;Implemented GitHub Classroom autograding with Selenium tests and updated project to Java 17. Refined Maven dependencies and adjusted IntelliJ project settings for better compatibility and maintainability. Streamlined test setup and overall project structure." />
+    <MESSAGE value="Update IntelliJ settings and GitHub autograding config&#10;&#10;Refined IntelliJ project settings, including TestNG configurations and metadata for improved compatibility. Adjusted GitHub Classroom autograding workflow and streamlined MAVEN_OPTS for better execution. Minor fixes to settings and task management for enhanced maintainability." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update IntelliJ settings and GitHub autograding config&#10;&#10;Refined IntelliJ project settings, including TestNG configurations and metadata for improved compatibility. Adjusted GitHub Classroom autograding workflow and streamlined MAVEN_OPTS for better execution. Minor fixes to settings and task management for enhanced maintainability." />
   </component>
 </project>
