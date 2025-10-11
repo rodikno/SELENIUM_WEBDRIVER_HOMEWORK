@@ -28,6 +28,6 @@ jobs:
         run: mvn clean test
         env:
           # Configure Chrome to run in headless mode
-          MAVEN_OPTS: "-Dwebdriver.chrome.args='--headless --no-sandbox --disable-dev-shm-usage --disable-gpu' -Dwebdriver.chrome.headless=true"
+          MAVEN_OPTS: -Dwebdriver.chrome.headless=true
 
       - uses: education/autograding@v1
