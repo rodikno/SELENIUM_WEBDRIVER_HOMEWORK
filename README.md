@@ -1,5 +1,5 @@
 # 🚀 SELENIUM WEBDRIVER HOMEWORK
-### Auto QA 1.0 — Selenium WebDriver + TestNG + CSS/XPath Locators
+### Auto QA — Selenium WebDriver + TestNG + CSS/XPath Locators
 
 ---
 
