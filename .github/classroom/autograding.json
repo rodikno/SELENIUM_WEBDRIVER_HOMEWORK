@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Run Selenium Tests",
+      "setup": "",
+      "run": "mvn clean test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 180,
+      "points": 100
+    }
+  ]
+}

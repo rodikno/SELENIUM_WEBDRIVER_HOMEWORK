@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc148d79-7088-4507-9e88-e7cad9ed5f61" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bc148d79-7088-4507-9e88-e7cad9ed5f61" name="Changes" comment="Update .idea settings and TestNG configurations&#10;&#10;Refactored IntelliJ project settings, including GitHub and Git preferences. Added a new TestNG configuration for `abTestingPageHasSpecificTextTest` and updated relevant metadata. Minor update to the timestamp in the README." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,9 +56,9 @@
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/_projects/SELENIUM_WEBDRIVER_HOMEWORK",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.45181876"
   }
 }]]></component>
   <component name="RunManager" selected="TestNG.SeleniumTestngTest.abTestingPageHasSpecificTextTest">
@@ -116,9 +114,20 @@
       <option name="presentableId" value="Default" />
       <updated>1723826951160</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update .idea settings and TestNG configurations&#10;&#10;Refactored IntelliJ project settings, including GitHub and Git preferences. Added a new TestNG configuration for `abTestingPageHasSpecificTextTest` and updated relevant metadata. Minor update to the timestamp in the README.">
+      <option name="closed" value="true" />
+      <created>1760214131639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760214131639</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Update .idea settings and TestNG configurations&#10;&#10;Refactored IntelliJ project settings, including GitHub and Git preferences. Added a new TestNG configuration for `abTestingPageHasSpecificTextTest` and updated relevant metadata. Minor update to the timestamp in the README." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update .idea settings and TestNG configurations&#10;&#10;Refactored IntelliJ project settings, including GitHub and Git preferences. Added a new TestNG configuration for `abTestingPageHasSpecificTextTest` and updated relevant metadata. Minor update to the timestamp in the README." />
   </component>
 </project>

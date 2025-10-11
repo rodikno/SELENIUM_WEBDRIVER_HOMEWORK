@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 public class SeleniumTestngTest extends BasicSetupTest {
 
     @Test
-    public void abTestingPageHasSpecificTextTest() throws InterruptedException {
+    public void abTestingPageHasSpecificTextTest() {
         browser.get("https://the-internet.herokuapp.com/");
         // Write your code here (just an example provided)
         WebElement abTestingTaskLink = browser.findElement(By.linkText("A/B Testing"));
